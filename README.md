@@ -1,2 +1,0 @@
-# raspotify
-Raspberry pi respotiy 
